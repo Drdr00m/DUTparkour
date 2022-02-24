@@ -39,4 +39,4 @@
 @Drdr00m
 
 ## 开源协议
-[MIT](https://github.com/Drdr00m/DUTparkour/blob/main/LICENSE)
+[MIT](https://github.com/Drdr00m/DUTparkour/blob/master/LICENSE)
